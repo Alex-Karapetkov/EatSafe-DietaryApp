@@ -49,5 +49,6 @@ This paper, collaboratively researched and written by the entire research group,
 - **Prototyping and Design Validation.pdf**:
 This final paper, collaboratively researched and written by the entire research group, concludes our project by presenting and justifying a finalized prototype of a mobile app designed to help college students with dietary restrictions find safe and accessible food options. The design process included user scenarios, wireframes, storyboards, and an interactive Figma prototype focused on personalized recommendations and inclusive user experience.
 
+---
 
 > **Note:** This is a design-focused project. No production code is included at this time.
