@@ -31,6 +31,9 @@ Developed by a 4-person team. My contributions included:
 ---
 
 ## Files Incluced:
-- This paper explores five impactful project ideas inspired by the UN Sustainable Development Goals, focusing on real human issues such as systemic racism, food waste, refugee integration, student wellness, and mental health access. It emphasizes practical, human-centered approaches to design solutions that can improve individual and community well-being.
+- Sustainable-Development-Project-Ideas.pdf:
+This paper explores five impactful project ideas inspired by the UN Sustainable Development Goals, focusing on real human issues such as systemic racism, food waste, refugee integration, student wellness, and mental health access. It emphasizes practical, human-centered approaches to design solutions that can improve individual and community well-being.
+
+- 
 
 > **Note:** This is a design-focused project. No production code is included at this time.
