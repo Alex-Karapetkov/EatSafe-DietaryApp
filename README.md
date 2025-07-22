@@ -34,7 +34,7 @@ Developed by a 4-person team. My contributions included:
 - **[Sustainable-Development-Project-Ideas.pdf](Sustainable-Development-Project-Ideas.pdf)**:
 This paper explores five impactful project ideas inspired by the UN Sustainable Development Goals, focusing on real human issues such as systemic racism, food waste, refugee integration, student wellness, and mental health access. It emphasizes practical, human-centered approaches to design solutions that can improve individual and community well-being. This paper was researched and written independently by me.
 
-- **College Student Interviews on Food Allergy Challenges.pdf**:
+- **[College Student Interviews on Food Allergy Challenges.pdf](College Student Interviews on Food Allergy Challenges.pdf)**:
 This paper presents insights from interviews with college students who have dietary restrictions and allergies, exploring their food choices and needs for an app that helps find safe dining options. Authored and researched independently by me.
 
 - **Possible Solutions for College Students with Food Allergies.pdf**:
