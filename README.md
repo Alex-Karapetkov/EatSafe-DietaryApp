@@ -27,6 +27,7 @@ Developed by a 4-person team. My contributions included:
 ## 🔗 Links
 - 🎨 [Figma Prototype](https://www.figma.com/file/KItjhZpQSyVnTVnzn9MpGa/EatSafe)
 - 📽️ [Demo Walkthrough (Google Drive)](https://drive.google.com/file/d/1gOX2cAlj5aXA1n5YmxqR6nKlt09ysYSq/view)
+- 🖥️ [Final Presentation Slides (Google Slides)](https://docs.google.com/presentation/d/1jQY-C1St5wOnT9_c4OMbaGxAZMT21MSfm5BWUnBYd6U/edit?usp=sharing)
 
 ---
 
