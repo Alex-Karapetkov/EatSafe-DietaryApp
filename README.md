@@ -40,13 +40,13 @@ This paper presents insights from interviews with college students who have diet
 - **[Possible-Solutions-for-College-Students-with-Food-Allergies.pdf](Possible-Solutions-for-College-Students-with-Food-Allergies.pdf)**:
 This paper explores challenges faced by college students with dietary restrictions and allergies, evaluates existing solutions, and proposes new app and policy ideas to improve safe food access and management. Authored and researched independently by me.
 
-- **[Research-and-Requirements-Gathering.pdf]()**:
+- **[Research-and-Requirements-Gathering.pdf](Research-and-Requirements-Gathering.pdf)**:
 This paper explores how dietary restrictions and preferences impact food decisions among college-aged students both on and off campus. Through interviews, analysis, and affinity diagramming, the authors identify key challenges and insights related to finding safe and suitable food options. The paper proposes app design requirements aimed at addressing these needs, including filtering options, allergen information, and emotional support features, to improve the daily food experiences of students with dietary restrictions. Research and writing were conducted collaboratively by the entire group.
 
-- **[Concept-Development-and-Design-Selection.pdf]()**:
+- **[Concept-Development-and-Design-Selection.pdf](Concept-Development-and-Design-Selection.pdf)**:
 This paper, collaboratively researched and written by the entire research group, explores how college students’ dietary restrictions influence their food choices and proposes a personalized smartphone app to support safe dining and grocery decisions. The design process included analysis of existing solutions, identification of gaps, and development of user-centered wireframes, storyboards, and scenarios.
 
-- **[Prototyping-and-Design-Validation.pdf]()**:
+- **[Prototyping-and-Design-Validation.pdf](Prototyping-and-Design-Validation.pdf)**:
 This final paper, collaboratively researched and written by the entire research group, concludes our project by presenting and justifying a finalized prototype of a mobile app designed to help college students with dietary restrictions find safe and accessible food options. The design process included user scenarios, wireframes, storyboards, and an interactive Figma prototype focused on personalized recommendations and inclusive user experience.
 
 ---
